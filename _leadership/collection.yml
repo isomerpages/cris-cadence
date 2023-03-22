@@ -1,0 +1,4 @@
+collections:
+  leadership:
+    output: true
+    order: []
