@@ -2,5 +2,7 @@ logo: /images/isomer-logo.svg
 links:
   - title: About
     url: /about/cadence/
-  - title: Example Page
+  - title: Leadership
     url: /example-page/
+  - title: Joint Platforms
+    collection: joint-platforms
