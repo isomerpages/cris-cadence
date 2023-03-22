@@ -6,3 +6,5 @@ links:
     collection: leadership
   - title: Joint Platforms
     collection: joint-platforms
+  - title: Latest News and Events
+    resource_room: true
