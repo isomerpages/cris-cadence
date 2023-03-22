@@ -3,6 +3,6 @@ links:
   - title: About
     url: /about/cadence/
   - title: Leadership
-    url: /example-page/
+    collection: leadership
   - title: Joint Platforms
     collection: joint-platforms
