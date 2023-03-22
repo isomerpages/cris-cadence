@@ -1,7 +1,11 @@
 ---
 layout: homepage
-title: Isomer Site
-description: Brief site description here
+title: Cardiovascular Disease National Collaborative Enterprise (CADENCE)
+description: The Cardiovascular Disease National Collaborative Enterprise
+  (CADENCE) is a national clinical translational programme aimed at synergising
+  cardiovascular research and technology capabilities across Singapore. It is a
+  programme of the Consortium for Clinical Research and Innovation, Singapore
+  (CRIS).
 image: /images/isomer-logo.svg
 permalink: /
 notification: ""
@@ -33,3 +37,4 @@ sections:
       button: Button text
       url: /faq/
 ---
+
