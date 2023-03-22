@@ -2,4 +2,5 @@ collections:
   leadership:
     output: true
     order:
+      - Executive Committee.md
       - Board Oversight Committee.md
