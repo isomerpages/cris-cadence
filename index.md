@@ -10,7 +10,7 @@ sections:
       title: CADENCE
       subtitle: A national initiative for cardiovascular research, technology, and
         translational capabilities
-      background: /images/Zz   Banners/01 - Homepage banner.png
+      background: /images/Zz   Banners/01 - Home - Banner.png
       button: Find out more
       url: /contact-us/
       key_highlights:
