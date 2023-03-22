@@ -2,5 +2,5 @@ collections:
   joint-platforms:
     output: true
     order:
-      - Early Phase Mechanistic Clinical Trials.md
       - Data, Imaging and Tissue Repository.md
+      - Early Phase Mechanistic Clinical Trials.md
