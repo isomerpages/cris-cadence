@@ -9,7 +9,7 @@ permalink: /terms-of-use/
 
 **Variation**
 
-5.  CADENCE may, from time to time and at its sole and absolute discretion, amend these Terms of Use without prior notice. The amended Terms of Use will be posted on this Web Site. Your access and use of this Web Site after the amended Terms of Use have been posted, will constitute your acceptance and agreement to be bound by the amended Terms of Use. To avoid doubt, references to these “Terms of Use” shall include such Terms of Use as amended from time to time by CRIS and posted on this Web Site.  
+5.  CADENCE may, from time to time and at its sole and absolute discretion, amend these Terms of Use without prior notice. The amended Terms of Use will be posted on this Web Site. Your access and use of this Web Site after the amended Terms of Use have been posted, will constitute your acceptance and agreement to be bound by the amended Terms of Use. To avoid doubt, references to these “Terms of Use” shall include such Terms of Use as amended from time to time by CADENCECRIS and posted on this Web Site.  
 
 **Relying On Information**
 
@@ -32,7 +32,7 @@ permalink: /terms-of-use/
 
 **Disclaimer of Warranties and Liability**
 
-13.  The Contents of this Web Site are provided on an “as is” basis. While CRIS has made every reasonable effort to ensure that the Contents on this Web Site have been obtained from reliable sources, we do not make any representations or warranties whatsoever, and to the fullest extent permitted by law, CADENCE hereby disclaims all express, implied, and/or statutory warranties of any kind to you or any third party, howsoever arising and whether arising from usage or custom or trade or by operation of law or otherwise, including without limitation to:
+13.  The Contents of this Web Site are provided on an “as is” basis. While  has made every reasonable effort to ensure that the Contents on this Web Site have been obtained from reliable sources, we do not make any representations or warranties whatsoever, and to the fullest extent permitted by law, CADENCE hereby disclaims all express, implied, and/or statutory warranties of any kind to you or any third party, howsoever arising and whether arising from usage or custom or trade or by operation of law or otherwise, including without limitation to:
     
     1.  any representations or warranties as to the accuracy, completeness, correctness, currency, reliability, timeliness, non-infringement, title, merchantability, quality or fitness for any particular purpose of the Contents of this Web Site;
     2.  any representations or warranties that the Contents and functions available on this Web Site shall be uninterrupted or error-free, or that defects will be corrected or that this Web Site and the hosting servers are and will be free of all viruses, other malicious codes, programmers or macros and/or other harmful elements.
@@ -58,7 +58,7 @@ permalink: /terms-of-use/
 
 **Availability and Right of Access to the Web Site**
 
-18.    CADENCE reserves the right to update or modify this Web Site from time to time. CRIS may suspend the operation of this Web Site for any period of time without any prior notice.
+18.    CADENCE reserves the right to update or modify this Web Site from time to time. CADENCE may suspend the operation of this Web Site for any period of time without any prior notice.
 19.  CADENCE reserves all rights to deny or restrict access to this Web Site to any particular person, or to block access from a particular Internet address to this Web Site, at any time, without ascribing any reasons whatsoever.
 
 **Hyperlinks from this Web Site to third party web sites**
