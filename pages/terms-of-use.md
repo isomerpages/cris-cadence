@@ -32,7 +32,7 @@ permalink: /terms-of-use/
 
 **Disclaimer of Warranties and Liability**
 
-13.  The Contents of this Web Site are provided on an “as is” basis. While  has made every reasonable effort to ensure that the Contents on this Web Site have been obtained from reliable sources, we do not make any representations or warranties whatsoever, and to the fullest extent permitted by law, CADENCE hereby disclaims all express, implied, and/or statutory warranties of any kind to you or any third party, howsoever arising and whether arising from usage or custom or trade or by operation of law or otherwise, including without limitation to:
+13.  The Contents of this Web Site are provided on an “as is” basis. While CADENCE has made every reasonable effort to ensure that the Contents on this Web Site have been obtained from reliable sources, we do not make any representations or warranties whatsoever, and to the fullest extent permitted by law, CADENCE hereby disclaims all express, implied, and/or statutory warranties of any kind to you or any third party, howsoever arising and whether arising from usage or custom or trade or by operation of law or otherwise, including without limitation to:
     
     1.  any representations or warranties as to the accuracy, completeness, correctness, currency, reliability, timeliness, non-infringement, title, merchantability, quality or fitness for any particular purpose of the Contents of this Web Site;
     2.  any representations or warranties that the Contents and functions available on this Web Site shall be uninterrupted or error-free, or that defects will be corrected or that this Web Site and the hosting servers are and will be free of all viruses, other malicious codes, programmers or macros and/or other harmful elements.
