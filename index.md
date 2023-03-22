@@ -12,7 +12,7 @@ sections:
         translational capabilities
       background: /images/Zz   Banners/01 - Home - Banner.png
       button: Find out more
-      url: /contact-us/
+      url: /about/cadence
       key_highlights:
         - title: Use Case 1
           description: Important highlight A is important
