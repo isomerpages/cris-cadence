@@ -46,4 +46,11 @@ sections:
       url: /joint-platforms/digitalhealth/
       image: /images/Placeholder/Platform 3.jpeg
       alt: Image alt text
+  - infopic:
+      title: Business Intelligence and Development
+      subtitle: Joint Platform 4
+      description: Pending description and image
+      button: READ MORE
+      url: /joint-platforms/businessdevelopment/
+      alt: Image alt text
 ---
