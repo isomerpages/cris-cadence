@@ -17,24 +17,20 @@ sections:
       background: /images/Zz   Banners/01 - Home - Banner.png
       button: Find out more
       url: /about/cadence
-      key_highlights:
-        - title: Use Case 1
-          description: Important highlight A is important
-          url: https://google.com
-        - title: use case 2
-          description: Important highlight B is equally important
-          url: https://gmail.com
-        - title: use case 3
-          description: Page A is important too
-          url: /privacy/
-        - title: use case 4
-          description: Key Highlight description
-          url: ""
-  - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
-      url: /faq/
+  - infopic:
+      title: Data, Imaging and Tissue Repository
+      subtitle: Joint Platform 1
+      description: Integrating patient data, cardiovascular images, tissues from
+        across Singapore into a national repository that can updated in
+        real-time.
+      button: Read more
+      url: /joint-platforms/data/
+      image: /images/Placeholder/Platform 1.png
+      alt: Image alt text
+  - infopic:
+      title: Infopic Title
+      subtitle: Infopic Subtitle
+      description: Infopic description
+      button: Button Text
+      alt: Image alt text
 ---
-
