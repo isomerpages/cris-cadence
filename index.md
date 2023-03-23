@@ -28,9 +28,12 @@ sections:
       image: /images/Placeholder/Platform 1.png
       alt: Image alt text
   - infopic:
-      title: Infopic Title
-      subtitle: Infopic Subtitle
-      description: Infopic description
-      button: Button Text
+      title: National Cardiovascular Clinical Trials Network
+      subtitle: Joint Platform 2
+      description: Bringing together cardiovascular clinical trial units across
+        Singapore to support mechanistic early-phase multi-site clinical trials.
+      button: READ MORE
       alt: Image alt text
+      url: /joint-platforms/clinicaltrials/
+      image: /images/Placeholder/Platform 2.jpeg
 ---
