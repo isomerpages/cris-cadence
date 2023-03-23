@@ -53,4 +53,8 @@ sections:
       button: READ MORE
       url: /joint-platforms/businessdevelopment/
       alt: Image alt text
+  - resources:
+      title: Latest News and Events
+      subtitle: be in  the know
+      button: view more
 ---
