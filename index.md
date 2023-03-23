@@ -36,4 +36,14 @@ sections:
       alt: Image alt text
       url: /joint-platforms/clinicaltrials/
       image: /images/Placeholder/Platform 2.jpeg
+  - infopic:
+      title: Artificial Intelligence, Digital Health, and Human Potential
+      subtitle: Joint Platform 3
+      description: Leveraging technology and data to deliver lifestyle and
+        pharmacological behavioral interventions for the primary prevention of
+        cardiovascular diseases.
+      button: READ MORE
+      url: /joint-platforms/digitalhealth/
+      image: /images/Placeholder/Platform 3.jpeg
+      alt: Image alt text
 ---
