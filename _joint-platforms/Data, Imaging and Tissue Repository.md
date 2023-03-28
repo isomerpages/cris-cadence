@@ -7,7 +7,7 @@ Our **Data, Imaging and Tissue Repository Platform** will bring together, har
 
 PENDING FURTHER INPUT
 
-#### Use Case - Clinical and cost-effectiveness of treatments for patients with heart failure
+#### Use case - Clinical and cost-effectiveness of treatments for patients with heart failure
 
 #### Platform Leads
 
