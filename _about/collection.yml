@@ -2,6 +2,6 @@ collections:
   about:
     output: true
     order:
-      - Leadership/.keep
       - About CADENCE.md
       - Mission and Vision.md
+      - Leadership/.keep
