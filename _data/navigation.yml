@@ -2,8 +2,6 @@ logo: /images/isomer-logo.svg
 links:
   - title: About
     url: /about/cadence/
-  - title: Leadership
-    collection: leadership
   - title: Joint Platforms
     collection: joint-platforms
   - title: Latest News and Events
