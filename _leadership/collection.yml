@@ -1,5 +1,4 @@
 collections:
   leadership:
     output: true
-    order:
-      - Board Oversight Committee.md
+    order: []
