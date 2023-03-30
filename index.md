@@ -1,32 +1,60 @@
 ---
 layout: homepage
-title: Isomer Site
-description: Brief site description here
+title: Cardiovascular Disease National Collaborative Enterprise (CADENCE)
+description: The Cardiovascular Disease National Collaborative Enterprise
+  (CADENCE) is a national clinical translational programme aimed at synergising
+  cardiovascular research and technology capabilities across Singapore. It is a
+  programme of the Consortium for Clinical Research and Innovation, Singapore
+  (CRIS).
 image: /images/isomer-logo.svg
 permalink: /
-notification: Here's a notification bar you can use!
+notification: ""
 sections:
-    - hero:
-        title: Hero title
-        subtitle: Hero subtitle
-        background: /images/hero-banner.png
-        button: Contact Us
-        url: /contact-us/
-        key_highlights:
-            - title: Highlight A
-              description: Important highlight A is important
-              url: https://google.com
-            - title: Highlight B
-              description: Important highlight B is equally important
-              url: https://gmail.com
-            - title: Page A
-              description: Page A is important too
-              url: /privacy/
-    - infobar:
-        title: Infobar title
-        subtitle: Subtitle
-        description: About a sentence worth of description here
-        button: Button text
-        url: /faq/
+  - hero:
+      title: CADENCE
+      subtitle: A national initiative for cardiovascular research, technology, and
+        translational capabilities
+      background: /images/Zz   Banners/01 - Home - Banner.png
+      button: Find out more
+      url: /about/cadence
+  - infopic:
+      title: Data, Imaging and Tissue Repository
+      subtitle: Joint Platform 1
+      description: Integrating patient data, cardiovascular images, tissues from
+        across Singapore into a national repository that can updated in
+        real-time.
+      button: Read more
+      url: /joint-platforms/data/
+      image: /images/Placeholder/Platform 1.png
+      alt: Image alt text
+  - infopic:
+      title: National Cardiovascular Clinical Trials Network
+      subtitle: Joint Platform 2
+      description: Bringing together cardiovascular clinical trial units across
+        Singapore to support mechanistic early-phase multi-site clinical trials.
+      button: READ MORE
+      alt: Image alt text
+      url: /joint-platforms/clinicaltrials/
+      image: /images/Placeholder/Platform 2.jpeg
+  - infopic:
+      title: Artificial Intelligence, Digital Health, and Human Potential
+      subtitle: Joint Platform 3
+      description: Leveraging technology and data to deliver lifestyle and
+        pharmacological behavioral interventions for the primary prevention of
+        cardiovascular diseases.
+      button: READ MORE
+      url: /joint-platforms/digitalhealth/
+      image: /images/Placeholder/Platform 3.jpeg
+      alt: Image alt text
+  - infopic:
+      title: Business Intelligence and Development
+      subtitle: Joint Platform 4
+      description: Pending description and image
+      button: READ MORE
+      url: /joint-platforms/businessdevelopment/
+      alt: Image alt text
+  - resources:
+      title: Latest News and Events
+      subtitle: be in  the know
+      button: view more
 ---
-
