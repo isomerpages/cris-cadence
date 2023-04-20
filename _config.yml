@@ -3,7 +3,7 @@ url: https://cadence-cvd.sg
 favicon: /images/favicon-isomer.ico
 colors:
   primary-color: "#d6133d"
-  secondary-color: "#d6133d"
+  secondary-color: "#183b93"
   media-colors:
     - title: media-color-one
       color: "#183b93"
