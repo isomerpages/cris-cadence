@@ -2,6 +2,7 @@ collections:
   joint-platforms:
     output: true
     order:
+      - Platform 4/Business Intelligence and Development.md
       - Platform 4/.keep
       - Platform 3/Artificial Intelligence, Digital Health, and Human
         Potential.md
