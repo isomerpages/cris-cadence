@@ -2,6 +2,7 @@ collections:
   joint-platforms:
     output: true
     order:
+      - Platform 2/.keep
       - Platform 1/.keep
       - Platform 1/Data, Imaging and Tissue Repository.md
       - Platform 1/Use Case.md
