@@ -3,9 +3,18 @@ title: Data, Imaging and Tissue Repository
 permalink: /joint-platforms/data/
 description: ""
 ---
-Our **Data, Imaging and Tissue Repository Platform** will bring together, harmonise, and integrate patient data, cardiovascular (CV) images, tissues from across the healthcare clusters and institutions into a National CV Data Repository that can updated in real-time.
+CADENCE's **Data, Imaging & Tissue Repository Platform** will partner with A\*STAR's Bioinformatics Institute, Integrated Health Information Systems (IHiS), and the Singapore Ministry of Health (MOH) to bring together patient data, cardiovascular disease (CVD) images and tissues from across the healthcare clusters and institutions into a National Cardiovascular Data Repository that can updated in real time. 
 
-PENDING FURTHER INPUT
+Through this platform, we aim to:
+
+*   Transform and integrate large unstructured datasets into a single "fit-for-purpose" structured dataset and linkage of these datasets to health outcomes. 
+    
+*   Serve as both a discovery and validation engine for academic and industry collaborators. 
+    
+*   Facilitate CVD research to improve health outcomes and clinical care of CVD patients in Singapore.
+    
+
+**
 
 #### Use case - Clinical and cost-effectiveness of treatments for patients with heart failure
 
