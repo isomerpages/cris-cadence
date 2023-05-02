@@ -13,6 +13,9 @@ Through this platform, we aim to:
     
 *   Facilitate CVD research to improve health outcomes and clinical care of CVD patients in Singapore.
     
+Through this platform, all CVD research capabilities and resources established nationwide can be shared through a standardised governance process to ease access for CADENCE partners, researchers and industrial collaborators. 
+
+This national resource would greatly facilitate the translation of novel research and innovative discoveries into the clinical setting to benefit patients here. 
 
 **
 
