@@ -2,17 +2,17 @@ title: Cardiovascular Disease National Collaborative Enterprise (CADENCE)
 url: https://cadence-cvd.sg
 favicon: /images/favicon-isomer.ico
 colors:
-  primary-color: "#183b93"
-  secondary-color: "#d6133d"
+  primary-color: "#2b4091"
+  secondary-color: "#de2b42"
   media-colors:
     - title: media-color-one
-      color: "#183b93"
+      color: "#2b4091"
     - title: media-color-two
-      color: "#7c28b8"
+      color: "#de2b42"
     - title: media-color-three
-      color: "#f68e5f"
+      color: "#7e28bb"
     - title: media-color-four
-      color: "#f5dd90"
+      color: "#2b4091"
     - title: media-color-five
       color: "#00838f"
 description: The Cardiovascular Disease National Collaborative Enterprise
