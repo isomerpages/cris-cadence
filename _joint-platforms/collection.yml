@@ -2,6 +2,7 @@ collections:
   joint-platforms:
     output: true
     order:
+      - Artificial Intelligence, Digital Health, and Human Potential.md
       - Business Intelligence and Development.md
       - Data, Imaging and Tissue Repository.md
       - Platform 2/.keep
