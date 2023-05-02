@@ -19,7 +19,9 @@ This national resource would greatly facilitate the translation of novel researc
 
 #### **Platform Leads**
 
-Pending photos
+* A/Prof Yeo Khung Keong (Lead)
+* A/Prof James Yip (Co-Lead)
+* A/Prof Sebastian Maurer-Stroh (Co-Lead)
 
 #### **Use Case - Clinical and cost-effectiveness of treatments for patients with heart failure**
 
