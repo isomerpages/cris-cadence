@@ -48,9 +48,9 @@ sections:
   - infopic:
       title: Business Intelligence and Development
       subtitle: Joint Platform 4
-      description: Pending description and image
+      description: Driving industry collaborations and engagements.
       button: READ MORE
-      url: /joint-platforms/businessdevelopment/
+      url: /joint-platforms/4/
       alt: Image alt text
   - resources:
       title: Latest News and Events
