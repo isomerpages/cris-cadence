@@ -12,17 +12,16 @@ notification: ""
 sections:
   - hero:
       title: CADENCE
-      subtitle: A national initiative for cardiovascular research, technology, and
-        translational capabilities
+      subtitle: "Synergising cardiovascular research and technology capabilities
+        across Singapore. "
       background: /images/Zz   Banners/01 - Home - Banner.png
       button: Find out more
       url: /about/cadence
   - infopic:
       title: Data, Imaging and Tissue Repository
       subtitle: Joint Platform 1
-      description: Integrating patient data, cardiovascular images, tissues from
-        across Singapore into a national repository that can updated in
-        real-time.
+      description: Establishing a national cardiovascular data repository to
+        facilitate national research for academic and industry collaborators.
       button: Read more
       url: /joint-platforms/data/
       image: /images/Placeholder/Platform 1.png
