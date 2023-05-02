@@ -22,4 +22,8 @@ This platform improves healthcare outcomes and empowers individuals to live heal
 
 #### **Use Case - Digital-empowered solution for primary prevention of cardiovascular disease in patients with hyperlipidaemia**
 
+Medication adherence is a critical aspect of managing hyperlipidemia. 
 
+However, human behavior plays a significant role in medication adherence, as patients may struggle with following a medication regimen. Some reasons include forgetfulness, lack of understanding of the medication's benefits, cultural beliefs, as well as individual values and beliefs about health and illness. 
+
+This use case will implement a hybrid digital health-human coaching solution developed by CADENCE's Joint Platform 3 to change patient behaviour and improve medication adherence for primary prevention of CVD in patients with high cholesterol.**
