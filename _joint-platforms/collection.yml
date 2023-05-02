@@ -2,6 +2,8 @@ collections:
   joint-platforms:
     output: true
     order:
+      - Platform 3/Artificial Intelligence, Digital Health, and Human
+        Potential.md
       - Platform 3/.keep
       - Platform 2/National Cardiovascular Clinical Trials Network.md
       - Platform 2/.keep
