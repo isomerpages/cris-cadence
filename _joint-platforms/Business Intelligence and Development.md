@@ -13,6 +13,6 @@ Through this platform, CADENCE aims to:
 
 *   Provide a business intelligence perspective to CADENCE's Joint Platforms in order to enhance the clinical and commercial impact of our research
  
-#### **Platform Leads**
+#### **Platform Lead**
 
 * Dr Sit Soon Tuck (Lead)
