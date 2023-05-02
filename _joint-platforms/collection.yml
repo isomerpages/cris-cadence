@@ -2,6 +2,7 @@ collections:
   joint-platforms:
     output: true
     order:
+      - Data, Imaging and Tissue Repository.md
       - Platform 1/Use Case.md
       - Platform 1/.keep
       - National Cardiovascular Clinical Trials Network.md
