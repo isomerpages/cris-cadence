@@ -2,6 +2,7 @@ collections:
   joint-platforms:
     output: true
     order:
+      - Platform 1/.keep
       - Data, Imaging and Tissue Repository.md
       - National Cardiovascular Clinical Trials Network.md
       - Artificial Intelligence, Digital Health, and Human Potential.md
