@@ -17,11 +17,3 @@ Through this platform, we aim to:
 Through this platform, all CVD research capabilities and resources established nationwide can be shared through a standardised governance process to ease access for CADENCE partners, researchers and industrial collaborators. 
 
 This national resource would greatly facilitate the translation of novel research and innovative discoveries into the clinical setting to benefit patients here. 
-
-**
-
-#### Use case - Clinical and cost-effectiveness of treatments for patients with heart failure
-
-#### Platform Leads
-
-photos + titles
