@@ -12,19 +12,18 @@ notification: ""
 sections:
   - hero:
       title: CADENCE
-      subtitle: A national initiative for cardiovascular research, technology, and
-        translational capabilities
+      subtitle: "Synergising cardiovascular research and technology capabilities
+        across Singapore. "
       background: /images/Zz   Banners/01 - Home - Banner.png
       button: Find out more
       url: /about/cadence
   - infopic:
       title: Data, Imaging and Tissue Repository
       subtitle: Joint Platform 1
-      description: Integrating patient data, cardiovascular images, tissues from
-        across Singapore into a national repository that can updated in
-        real-time.
+      description: Establishing a national cardiovascular data repository to
+        facilitate national research for academic and industry collaborators.
       button: Read more
-      url: /joint-platforms/data/
+      url: /joint-platforms/1/
       image: /images/Placeholder/Platform 1.png
       alt: Image alt text
   - infopic:
@@ -34,7 +33,7 @@ sections:
         Singapore to support mechanistic early-phase multi-site clinical trials.
       button: READ MORE
       alt: Image alt text
-      url: /joint-platforms/clinicaltrials/
+      url: /joint-platforms/2/
       image: /images/Placeholder/Platform 2.jpeg
   - infopic:
       title: Artificial Intelligence, Digital Health, and Human Potential
@@ -43,15 +42,15 @@ sections:
         pharmacological behavioral interventions for the primary prevention of
         cardiovascular diseases.
       button: READ MORE
-      url: /joint-platforms/digitalhealth/
+      url: /joint-platforms/3/
       image: /images/Placeholder/Platform 3.jpeg
       alt: Image alt text
   - infopic:
       title: Business Intelligence and Development
       subtitle: Joint Platform 4
-      description: Pending description and image
+      description: Driving industry collaborations and engagements.
       button: READ MORE
-      url: /joint-platforms/businessdevelopment/
+      url: /joint-platforms/4/
       alt: Image alt text
   - resources:
       title: Latest News and Events
