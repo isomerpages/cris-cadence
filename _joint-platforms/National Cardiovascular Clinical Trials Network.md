@@ -21,7 +21,21 @@ Through this network, the research community will have a unified platform to c
 
 #### **Platform Leads**
 
-#### **Use case - AI-empowered imaging solution for earlier detection of cancer-related cardiac dysfunction**
+* Dr Lim Shir Lynn (Lead)
+* A/Prof David Sim (Co-Lead)
+* Dr Cliff Li (Co-Lead)
 
+#### **Use Case - AI-empowered imaging solution for earlier detection of cancer-related cardiac dysfunction**
 
+Cancer treatments, including chemotherapies and radiotherapies, increase the risk of cardiovascular disease. 
 
+Among many cancer survivors, the risk of mortality from cardiac disease may be higher than the cancer itself. Consequently, there has been increasing interest in detecting cancer therapy-associated cardiac dysfunction (CTRCD) early so that the patients can receive appropriate heart failure treatment. 
+
+As a result, the European Society of Cardiology recently released the first-ever guidelines on cardio-oncology, intended to guide clinicians to better recognise and treat patients with CTRCD. 
+    
+
+Through this Use Case, CADENCE aims to:
+    
+*   Evaluate the accuracy, cost-effectiveness, and patient preference of an AI-echo guided strategy as compared to standard echocardiography in the detection of CTRCD. 
+    
+*   Demonstrate earlier detection of CTRCD using an AI-echo guided strategy as compared to a standard echocardiography strategy in HER2-positive breast cancer patients.
