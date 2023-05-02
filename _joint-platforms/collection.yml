@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Data, Imaging and Tissue Repository.md
-      - Platform 1/.keep
       - Platform 2/.keep
       - Platform 2/National Cardiovascular Clinical Trials Network.md
       - Platform 3/.keep
