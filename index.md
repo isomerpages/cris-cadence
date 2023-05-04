@@ -52,6 +52,7 @@ sections:
       button: READ MORE
       url: /joint-platforms/4/
       alt: Image alt text
+      image: /images/Placeholder/platform 4.jpeg
   - resources:
       title: Latest News and Events
       subtitle: be in  the know

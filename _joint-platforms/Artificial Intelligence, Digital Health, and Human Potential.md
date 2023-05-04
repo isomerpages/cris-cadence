@@ -17,7 +17,7 @@ This platform improves healthcare outcomes and empowers individuals to live heal
 
 #### **Platform Leads**
 
-* Prof Josip Car (Lead)
+* TBC (Lead)
 * A/Prof Doreen Tan (Co-Lead)
 
 #### **Use Case - Digital-empowered solution for primary prevention of cardiovascular disease in patients with hyperlipidaemia**
