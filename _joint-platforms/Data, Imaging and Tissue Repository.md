@@ -3,7 +3,9 @@ title: Data, Imaging and Tissue Repository
 permalink: /joint-platforms/1/
 description: ""
 ---
-CADENCE **Data, Imaging & Tissue Repository Platform**, with representation from the National Heart Centre Singapore, National University Heart Centre, Singapore, and Tan Tock Seng Hospital, in partnership with Bioinformatics Institute (A\*STAR), IHiS, and the Ministry of Health, looks forward to bring together patient data, cardiovascular disease (CVD) images and tissue from across the clusters and institutions into a **National Cardiovascular Data Repository** that can updated in real-time.
+![](/images/Banners/cover_banner%20-%20platform%201.png)
+
+CADENCE's **Data, Imaging & Tissue Repository Platform**, with representation from the National Heart Centre Singapore, National University Heart Centre, Singapore, and Tan Tock Seng Hospital, in partnership with Bioinformatics Institute (A\*STAR), IHiS, and the Ministry of Health, looks forward to bring together patient data, cardiovascular disease (CVD) images and tissue from across the clusters and institutions into a **National Cardiovascular Data Repository** that can updated in real-time.
 
 Through this platform, we aim to:
 
@@ -34,3 +36,5 @@ Through this use case, CADENCE aims to:
 *   Inform healthcare policies by influencing prescribing guidelines for heart failure patients  
 
 *   Provide the evidence base for national drug treatment guidelines for heart failure.
+
+![](/images/Banners/cover_page%20footer.png)

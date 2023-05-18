@@ -14,7 +14,7 @@ sections:
       title: CADENCE
       subtitle: "Synergising cardiovascular research and technology capabilities
         across Singapore. "
-      background: /images/Zz   Banners/01 - Home - Banner.png
+      background: /images/Zz   Banners/home page banner.png
       button: Find out more
       url: /about/cadence
   - infopic:
@@ -24,7 +24,7 @@ sections:
         facilitate national research for academic and industry collaborators.
       button: Read more
       url: /joint-platforms/1/
-      image: /images/Placeholder/Platform 1.png
+      image: /images/Banners/cover_home page - platform 1.png
       alt: Image alt text
   - infopic:
       title: National Cardiovascular Clinical Trials Network
