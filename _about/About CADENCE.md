@@ -5,6 +5,8 @@ description: CADENCE is a national clinical translational programme aimed at
   synergising cardiovascular research and technology capabilities across
   Singapore.
 ---
+![](/images/Banners/page%20footer%201.png)
+
 Established in February 2023, the **CA**rdiovascular **D**iseas**E** **N**ational **C**ollaborative **E**nterprise (CADENCE) is a national clinical translational programme aimed at synergising cardiovascular research and technology capabilities across Singapore. It is a programme of the [Consortium for Clinical Research and Innovation, Singapore](https://cris.sg) (CRIS).
 
 Singapore has established internationally competitive basic, translational, and clinical research talent, state-of-the-art research facilities, and multi-site clinical research infrastructure in cardiovascular research. These include the National Heart Centre Singapore (NHCS), National University Heart Centre Singapore (NUHCS), Tan Tock Seng Hospital (TTSH), National University of Singapore (NUS), SingHealth Duke-NUS Medical School, Nanyang Technological University (NTU) and the Agency for Science, Technology and Research (A\*STAR). 
