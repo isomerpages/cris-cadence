@@ -14,7 +14,7 @@ sections:
       title: CADENCE
       subtitle: "Synergising cardiovascular research and technology capabilities
         across Singapore. "
-      background: /images/Zz   Banners/01 - Home - Banner.png
+      background: /images/Zz   Banners/home page banner.png
       button: Find out more
       url: /about/cadence
   - infopic:
