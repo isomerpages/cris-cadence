@@ -22,3 +22,4 @@ image: /images/Banners/banner - with logo.png
 ![](/images/01_Leadership/02_Executive%20Committee/cadence%20-%2008.png)
 
 ![](/images/01_Leadership/02_Executive%20Committee/cadence%20-%2009.png)
+![](/images/Banners/page%20footer%203.png)
