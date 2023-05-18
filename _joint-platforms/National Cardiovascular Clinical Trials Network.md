@@ -22,6 +22,8 @@ Through this network, the research community will have a unified platform to c
 
 ![](/images/Banners/platform%202%20-%20platform%20leads.png)
 
+![](/images/01_Leadership/02_Executive%20Committee/cadence%20-%2004.png)
+
 * Dr Lim Shir Lynn (Lead)
 * A/Prof David Sim (Co-Lead)
 * Dr Cliff Li (Co-Lead)
