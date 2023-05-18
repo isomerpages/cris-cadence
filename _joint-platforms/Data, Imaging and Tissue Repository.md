@@ -20,9 +20,12 @@ This national resource would greatly facilitate the translation of novel researc
 
 ![](/images/Banners/platform%201%20-%20platform%20leads.png)
 
-* A/Prof Yeo Khung Keong (Lead)
-* A/Prof James Yip (Co-Lead)
-* A/Prof Sebastian Maurer-Stroh (Co-Lead)
+![](/images/01_Leadership/02_Executive%20Committee/cadence%20-%2009.png)
+
+![](/images/01_Leadership/02_Executive%20Committee/cadence%20-%2010.png)
+
+![](/images/01_Leadership/02_Executive%20Committee/cadence%20-%2005.png)
+
 
 ![](/images/Banners/platform%201%20-%20use%20case.png)
 #### **Clinical and cost-effectiveness of treatments for patients with heart failure**
