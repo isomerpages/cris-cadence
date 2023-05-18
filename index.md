@@ -24,7 +24,7 @@ sections:
         facilitate national research for academic and industry collaborators.
       button: Read more
       url: /joint-platforms/1/
-      image: /images/Placeholder/Platform 1.png
+      image: /images/Banners/cover_home page - platform 1.png
       alt: Image alt text
   - infopic:
       title: National Cardiovascular Clinical Trials Network
