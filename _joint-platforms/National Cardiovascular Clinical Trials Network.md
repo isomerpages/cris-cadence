@@ -42,4 +42,7 @@ Through this Use Case, CADENCE aims to:
     
 *   Demonstrate earlier detection of CTRCD using an AI-echo guided strategy as compared to a standard echocardiography strategy in HER2-positive breast cancer patients.
 
+This use case is led by:
+![](/images/01_Leadership/02_Executive%20Committee/cadence%20-%2006.png)
+
 ![](/images/Banners/page%20footer%202.png)
