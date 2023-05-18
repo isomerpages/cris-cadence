@@ -24,7 +24,7 @@ Through this network, the research community will have a unified platform to c
 
 ![](/images/01_Leadership/02_Executive%20Committee/cadence%20-%2004.png)
 
-
+![](/images/01_Leadership/02_Executive%20Committee/cadence%20-%2011.png)
 
 ![](/images/Banners/platform%202%20-%20use%20case.png)
 #### **AI-empowered imaging solution for earlier detection of cancer-related cardiac dysfunction**
