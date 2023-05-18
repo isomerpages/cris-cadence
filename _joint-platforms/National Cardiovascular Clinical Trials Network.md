@@ -22,9 +22,9 @@ Through this network, the research community will have a unified platform to c
 
 ![](/images/Banners/platform%202%20-%20platform%20leads.png)
 
-* Dr Lim Shir Lynn (Lead)
-* A/Prof David Sim (Co-Lead)
-* Dr Cliff Li (Co-Lead)
+![](/images/01_Leadership/02_Executive%20Committee/cadence%20-%2004.png)
+
+![](/images/01_Leadership/02_Executive%20Committee/cadence%20-%2011.png)
 
 ![](/images/Banners/platform%202%20-%20use%20case.png)
 #### **AI-empowered imaging solution for earlier detection of cancer-related cardiac dysfunction**
@@ -41,5 +41,8 @@ Through this Use Case, CADENCE aims to:
 *   Evaluate the accuracy, cost-effectiveness, and patient preference of an AI-echo guided strategy as compared to standard echocardiography in the detection of CTRCD. 
     
 *   Demonstrate earlier detection of CTRCD using an AI-echo guided strategy as compared to a standard echocardiography strategy in HER2-positive breast cancer patients.
+
+This use case is led by:
+![](/images/01_Leadership/02_Executive%20Committee/cadence%20-%2006.png)
 
 ![](/images/Banners/page%20footer%202.png)
