@@ -2,6 +2,7 @@
 title: Business Intelligence and Development
 permalink: /joint-platforms/4/
 description: ""
+image: /images/Banners/platform 4.png
 ---
 CADENCE **Business Intelligence and Development** unit is a dedicated business team for active industry engagements. 
 
@@ -13,6 +14,8 @@ Through this platform, CADENCE aims to:
 
 *   Provide a business intelligence perspective to CADENCE's Joint Platforms in order to enhance the clinical and commercial impact of our research
  
-#### **Platform Lead**
+![](/images/Banners/platform%204%20-%20platform%20lead.png)
 
 * Dr Sit Soon Tuck (Lead)
+
+![](/images/Banners/page%20footer%201.png)

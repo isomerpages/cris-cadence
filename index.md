@@ -14,7 +14,7 @@ sections:
       title: CADENCE
       subtitle: "Synergising cardiovascular research and technology capabilities
         across Singapore. "
-      background: /images/Zz   Banners/home page banner.png
+      background: /images/Banners/banner - home page.png
       button: Find out more
       url: /about/cadence
   - infopic:
@@ -24,17 +24,17 @@ sections:
         facilitate national research for academic and industry collaborators.
       button: Read more
       url: /joint-platforms/1/
-      image: /images/Banners/cover_home page - platform 1.png
-      alt: Image alt text
+      image: /images/Banners/platform 1.png
+      alt: CADENCE Platform 1
   - infopic:
       title: National Cardiovascular Clinical Trials Network
       subtitle: Joint Platform 2
       description: Bringing together cardiovascular clinical trial units across
         Singapore to support mechanistic early-phase multi-site clinical trials.
       button: READ MORE
-      alt: Image alt text
+      alt: CADENCE Platform 2
       url: /joint-platforms/2/
-      image: /images/Placeholder/Platform 2.jpeg
+      image: /images/Banners/platform 2.png
   - infopic:
       title: Artificial Intelligence, Digital Health, and Human Potential
       subtitle: Joint Platform 3
@@ -43,16 +43,16 @@ sections:
         cardiovascular diseases.
       button: READ MORE
       url: /joint-platforms/3/
-      image: /images/Placeholder/Platform 3.jpeg
-      alt: Image alt text
+      image: /images/Banners/platform 3.png
+      alt: CADENCE Platform 3
   - infopic:
       title: Business Intelligence and Development
       subtitle: Joint Platform 4
       description: Driving industry collaborations and engagements.
       button: READ MORE
       url: /joint-platforms/4/
-      alt: Image alt text
-      image: /images/Placeholder/platform 4.jpeg
+      alt: CADENCE Platform 4
+      image: /images/Banners/platform 4.png
   - resources:
       title: Latest News and Events
       subtitle: be in  the know
