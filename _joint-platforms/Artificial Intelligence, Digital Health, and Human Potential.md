@@ -18,7 +18,7 @@ This platform improves healthcare outcomes and empowers individuals to live heal
 
 ![](/images/Banners/platform%203%20-%20platform%20leads.png)
 
-* A/Prof Doreen Tan (Co-Lead)
+![](/images/01_Leadership/02_Executive%20Committee/cadence%20-%2008.png)
 
 ![](/images/Banners/platform%203%20-%20use%20case.png)
 #### **Digital-empowered solution for primary prevention of cardiovascular disease in patients with hyperlipidaemia**
