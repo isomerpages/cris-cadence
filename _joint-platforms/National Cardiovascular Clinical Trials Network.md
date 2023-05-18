@@ -19,13 +19,14 @@ Through this platform, we aim to:
 
 Through this network, the research community will have a unified platform to conduct more efficient and effective clinical trials, leading to quicker development and approval of new cardiovascular therapies and interventions. This would ultimately improve patient outcomes and contribute to the prevention, diagnosis, and treatment of cardiovascular diseases.
 
-#### **Platform Leads**
+![](/images/Banners/platform%202%20-%20platform%20leads.png)
 
 * Dr Lim Shir Lynn (Lead)
 * A/Prof David Sim (Co-Lead)
 * Dr Cliff Li (Co-Lead)
 
-#### **Use Case - AI-empowered imaging solution for earlier detection of cancer-related cardiac dysfunction**
+![](/images/Banners/platform%202%20-%20use%20case.png)
+#### **AI-empowered imaging solution for earlier detection of cancer-related cardiac dysfunction**
 
 Cancer treatments, including chemotherapies and radiotherapies, increase the risk of cardiovascular disease. 
 
@@ -39,3 +40,5 @@ Through this Use Case, CADENCE aims to:
 *   Evaluate the accuracy, cost-effectiveness, and patient preference of an AI-echo guided strategy as compared to standard echocardiography in the detection of CTRCD. 
     
 *   Demonstrate earlier detection of CTRCD using an AI-echo guided strategy as compared to a standard echocardiography strategy in HER2-positive breast cancer patients.
+
+![](/images/Banners/page%20footer%202.png)
