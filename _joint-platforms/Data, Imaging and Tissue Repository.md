@@ -40,4 +40,7 @@ Through this use case, CADENCE aims to:
 
 *   Provide the evidence base for national drug treatment guidelines for heart failure.
 
+This use case is lead by:
+![](/images/01_Leadership/02_Executive%20Committee/cadence%20-%2003.png)
+
 ![](/images/Banners/page%20footer%201.png)
