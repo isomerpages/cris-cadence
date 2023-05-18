@@ -16,6 +16,6 @@ Through this platform, CADENCE aims to:
  
 ![](/images/Banners/platform%204%20-%20platform%20lead.png)
 
-* Dr Sit Soon Tuck (Lead)
+![](/images/01_Leadership/02_Executive%20Committee/cadence%20-%2007.png)
 
 ![](/images/Banners/page%20footer%201.png)
