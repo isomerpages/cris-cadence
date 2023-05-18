@@ -15,15 +15,17 @@ This platform has several objectives, including: 
 
 This platform improves healthcare outcomes and empowers individuals to live healthier and more fulfilling lives, and could lead to better management of chronic conditions, ultimately reducing healthcare costs, thus improving quality of life for individuals and communities.
 
-#### **Platform Leads**
+![](/images/Banners/platform%203%20-%20platform%20leads.png)
 
-* TBC (Lead)
 * A/Prof Doreen Tan (Co-Lead)
 
-#### **Use Case - Digital-empowered solution for primary prevention of cardiovascular disease in patients with hyperlipidaemia**
+![](/images/Banners/platform%203%20-%20use%20case.png)
+#### **Digital-empowered solution for primary prevention of cardiovascular disease in patients with hyperlipidaemia**
 
 Medication adherence is a critical aspect of managing hyperlipidemia. 
 
 However, human behavior plays a significant role in medication adherence, as patients may struggle with following a medication regimen. Some reasons include forgetfulness, lack of understanding of the medication's benefits, cultural beliefs, as well as individual values and beliefs about health and illness. 
 
 This use case will implement a hybrid digital health-human coaching solution developed by CADENCE's **Artificial Intelligence, Digital Health, and Human Potential Platform** to change patient behaviour and improve medication adherence for primary prevention of cardiovascular disease in patients with high cholesterol.
+
+![](/images/Banners/page%20footer%203.png)
