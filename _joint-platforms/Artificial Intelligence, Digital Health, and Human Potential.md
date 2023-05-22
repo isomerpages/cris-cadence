@@ -18,7 +18,9 @@ This platform aims to improve healthcare outcomes through empowering individuals
 
 ![](/images/Banners/platform%203%20-%20platform%20leads.png)
 
-![](/images/01_Leadership/02_Executive%20Committee/cadence%20-%2008.png)
+![](/images/01_Leadership/02_Executive%20Committee/cadence%20-%2013.png)
+
+![](/images/01_Leadership/02_Executive%20Committee/cadence%20-%2014.png)
 
 ![](/images/Banners/platform%203%20-%20use%20case.png)
 #### **Digital-empowered solution for primary prevention of cardiovascular disease in patients with hyperlipidaemia**
@@ -26,5 +28,8 @@ This platform aims to improve healthcare outcomes through empowering individuals
 Ensuring adherence to lipid-lowering agents is a critical aspect of managing hyperlipidemia. It is estimated that only half of the patients who have been prescribed a statin is taking it as prescribed. Common reasons could be largely attributed to human behaviour - including forgetfulness, fake news, individual’s culture, values and beliefs about health and illness, as well as the lack of understanding around the benefits of treatment. 
 
 The goal of this use case is to implement a hybrid digital health-human coaching solution developed by CADENCE’s Artificial Intelligence, Digital Health, and Human Potential Platform to complement clinician-pharmacists' efforts towards changing patients’ behaviour, improve medication adherence and the optimisation of lipid lowering agents’ dosing in patients with hyperlipidaemia.
+
+This use case is led by:
+![](/images/01_Leadership/02_Executive%20Committee/cadence%20-%2008.png)
 
 ![](/images/Banners/page%20footer%203.png)
