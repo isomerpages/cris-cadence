@@ -9,4 +9,4 @@ third_nav_title: Leadership
 
 ![](/images/01_Leadership/02_Executive%20Committee/cadence%20-%2002.png)
 
-Pending Sock Hwee
+![](/images/01_Leadership/02_Executive%20Committee/cadence%20-%2015.png)
