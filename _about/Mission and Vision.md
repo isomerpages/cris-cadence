@@ -6,7 +6,7 @@ image: /images/Banners/banner - with logo.png
 ---
 #### Mission
 
-To create a national cardiovascular research programme which drives clinical application, improve health outcomes and commercialisation by combining basic research, translational and clinical research strengths across Singapore and institutions in a synergistic and integrated manner.
+To create a national cardiovascular research programme that brings together basic science, translational and clinical research strengths across Singapore in a synergistic and integrated manner to improve health outcomes for patients with cardiovascular diseases.
 
 ![](/images/Banners/page%20footer%202.png)
 #### Vision
