@@ -14,7 +14,7 @@ locations:
 contacts:
   - content:
       - phone: ""
-      - email: enquiries@abc.gov.sg
+      - email: contact@cadence.cris.sg
       - other: ""
     title: Enquiries
   - content:
