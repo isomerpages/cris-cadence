@@ -16,7 +16,7 @@ contacts:
       - phone: ""
       - email: contact@cadence.cris.sg
       - other: ""
-    title: Enquiries
+    title: Email
   - content:
       - phone: ""
       - email: career@cris.sg
