@@ -18,8 +18,10 @@ This platform aims to improve healthcare outcomes through empowering individuals
 
 ![](/images/Banners/platform%203%20-%20platform%20leads.png)
 
+Lead:
 ![](/images/01_Leadership/02_Executive%20Committee/cadence%20-%2013.png)
 
+Co-Lead:
 ![](/images/01_Leadership/02_Executive%20Committee/cadence%20-%2014.png)
 
 ![](/images/Banners/platform%203%20-%20use%20case.png)
