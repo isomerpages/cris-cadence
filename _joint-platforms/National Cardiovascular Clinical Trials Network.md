@@ -22,10 +22,13 @@ Through this network, the research community will have a unified platform to c
 
 ![](/images/Banners/platform%202%20-%20platform%20leads.png)
 
+Lead:
 ![](/images/01_Leadership/02_Executive%20Committee/cadence%20-%2004.png)
 
+Co-Lead:
 ![](/images/01_Leadership/02_Executive%20Committee/cadence%20-%2011.png)
 
+Co-Lead:
 ![](/images/01_Leadership/02_Executive%20Committee/cadence%20-%2012.png)
 
 ![](/images/Banners/platform%202%20-%20use%20case.png)
@@ -42,7 +45,7 @@ Through this Use Case, CADENCE aims to:
     
 *   Evaluate the accuracy, cost-effectiveness, and patient preference of an AI-echo guided strategy as compared to standard echocardiography in the detection of CTRCD. 
     
-*   Demonstrate earlier detection of CTRCD using an AI-echo guided strategy as compared to a standard echocardiography strategy in HER2-positive breast cancer patients.
+*   Demonstrate earlier detection of CTRCD using an AI-echo guided strategy as compared to a standard echocardiography strategy in breast cancer and lymphoma patients receiving cardiotoxic chemotherapy.
 
 This use case is led by:
 ![](/images/01_Leadership/02_Executive%20Committee/cadence%20-%2006.png)

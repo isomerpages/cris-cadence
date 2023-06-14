@@ -20,10 +20,13 @@ This national resource would greatly facilitate the translation of novel researc
 
 ![](/images/Banners/platform%201%20-%20platform%20leads.png)
 
+Lead:
 ![](/images/01_Leadership/02_Executive%20Committee/cadence%20-%2009.png)
 
+Co-Lead:
 ![](/images/01_Leadership/02_Executive%20Committee/cadence%20-%2010.png)
 
+Co-Lead:
 ![](/images/01_Leadership/02_Executive%20Committee/cadence%20-%2005.png)
 
 

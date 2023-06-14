@@ -18,12 +18,17 @@ This platform aims to improve healthcare outcomes through empowering individuals
 
 ![](/images/Banners/platform%203%20-%20platform%20leads.png)
 
+Lead:
 ![](/images/01_Leadership/02_Executive%20Committee/cadence%20-%2013.png)
 
+Co-Lead:
 ![](/images/01_Leadership/02_Executive%20Committee/cadence%20-%2014.png)
 
+Co-Lead:
+![](/images/01_Leadership/02_Executive%20Committee/cadence%20-%2008.png)
+
 ![](/images/Banners/platform%203%20-%20use%20case.png)
-#### **Digital-empowered solution for primary prevention of cardiovascular disease in patients with hyperlipidaemia**
+#### **Digital-empowered solutions for the prevention of cardiovascular disease in primary care**
 
 Ensuring adherence to lipid-lowering agents is a critical aspect of managing hyperlipidemia. It is estimated that only half of the patients who have been prescribed a statin is taking it as prescribed. Common reasons could be largely attributed to human behaviour - including forgetfulness, fake news, individual’s culture, values and beliefs about health and illness, as well as the lack of understanding around the benefits of treatment. 
 
