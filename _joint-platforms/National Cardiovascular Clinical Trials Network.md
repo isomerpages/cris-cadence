@@ -22,10 +22,13 @@ Through this network, the research community will have a unified platform to c
 
 ![](/images/Banners/platform%202%20-%20platform%20leads.png)
 
+Lead:
 ![](/images/01_Leadership/02_Executive%20Committee/cadence%20-%2004.png)
 
+Co-Lead:
 ![](/images/01_Leadership/02_Executive%20Committee/cadence%20-%2011.png)
 
+Co-Lead:
 ![](/images/01_Leadership/02_Executive%20Committee/cadence%20-%2012.png)
 
 ![](/images/Banners/platform%202%20-%20use%20case.png)
