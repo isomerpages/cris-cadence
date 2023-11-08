@@ -20,6 +20,8 @@ contacts:
   - content:
       - phone: ""
       - email: career@cris.sg
-      - other: <a href="https://cris.sg/careers">View available roles</a>
+      - other: <a href="https://careers.mohh.com.sg/CRIS/go/CRIS/680844/">View available
+          roles</a>
     title: Careers
+feedback: ""
 ---
