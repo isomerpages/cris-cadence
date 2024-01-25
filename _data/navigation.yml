@@ -1,0 +1,10 @@
+logo: /images/cadence.png
+links:
+  - title: About Us
+    collection: about
+  - title: Joint Platforms
+    collection: joint-platforms
+  - title: Latest News
+    resource_room: true
+  - title: Contact
+    url: /contact-us
