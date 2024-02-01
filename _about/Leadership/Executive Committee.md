@@ -4,6 +4,7 @@ permalink: /leadership/exco/
 description: ""
 third_nav_title: Leadership
 image: /images/Banners/banner - with logo.png
+variant: markdown
 ---
 ![](/images/01_Leadership/02_Executive%20Committee/cadence%20-%2001.png)
 
@@ -36,7 +37,7 @@ Co-Lead:
 Lead:
 ![](/images/01_Leadership/02_Executive%20Committee/cadence%20-%2013.png)
 
-Co-Lead:
+Joint-Lead:
 ![](/images/01_Leadership/02_Executive%20Committee/cadence%20-%2014.png)
 
 Co-Lead:
