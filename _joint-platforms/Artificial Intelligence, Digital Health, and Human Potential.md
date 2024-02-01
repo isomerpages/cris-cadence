@@ -3,6 +3,7 @@ title: Artificial Intelligence, Digital Health, and Human Potential
 permalink: /joint-platforms/3/
 description: ""
 image: /images/Banners/platform 3.png
+variant: markdown
 ---
 CADENCE’s **Artificial Intelligence, Digital Health, and Human Potential Platform** leverages the man-machine interface – the power of technology and data – to deliver lifestyle and behavioural coaching in tandem with clinician-pharmacists trained to manage hyperlipidaemia. 
 
@@ -21,7 +22,7 @@ This platform aims to improve healthcare outcomes through empowering individuals
 Lead:
 ![](/images/01_Leadership/02_Executive%20Committee/cadence%20-%2013.png)
 
-Co-Lead:
+Joint-Lead:
 ![](/images/01_Leadership/02_Executive%20Committee/cadence%20-%2014.png)
 
 Co-Lead:
