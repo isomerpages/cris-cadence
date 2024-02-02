@@ -4,53 +4,67 @@ permalink: /leadership/exco/
 description: ""
 third_nav_title: Leadership
 image: /images/Banners/banner - with logo.png
-variant: markdown
+variant: tiptap
 ---
-![](/images/01_Leadership/02_Executive%20Committee/cadence%20-%2001.png)
-
-![](/images/01_Leadership/02_Executive%20Committee/cadence%20-%2002.png)
-
-#### **Platform 1 - Data, Imaging & Tissue Repository - Platform Leads**
-
-Lead:
-![](/images/01_Leadership/02_Executive%20Committee/cadence%20-%2009.png)
-
-Co-Lead:
-![](/images/01_Leadership/02_Executive%20Committee/cadence%20-%2010.png)
-
-Co-Lead:
-![](/images/01_Leadership/02_Executive%20Committee/cadence%20-%2005.png)
-
-#### **Platform 2 - National Cardiovascular Clinical Trials Network - Platform Leads**
-
-Lead:
-![](/images/01_Leadership/02_Executive%20Committee/cadence%20-%2004.png)
-
-Co-Lead:
-![](/images/01_Leadership/02_Executive%20Committee/cadence%20-%2011.png)
-
-Co-Lead:
-![](/images/01_Leadership/02_Executive%20Committee/cadence%20-%2012.png)
-
-#### **Platform 3 - Artificial Intelligence, Digital Health, and Human Potential - Platform Leads**
-
-Lead:
-![](/images/01_Leadership/02_Executive%20Committee/cadence%20-%2013.png)
-
-Joint-Lead:
-![](/images/01_Leadership/02_Executive%20Committee/cadence%20-%2014.png)
-
-Co-Lead:
-![](/images/01_Leadership/02_Executive%20Committee/cadence%20-%2008.png)
-
-#### **Platform 4 - Business Intelligence and Development - Platform Lead**
-![](/images/01_Leadership/02_Executive%20Committee/cadence%20-%2007.png)
-
-#### **Use Case 1 - Clinical and cost-effectiveness of treatments for patients with heart failure - Lead**
-![](/images/01_Leadership/02_Executive%20Committee/cadence%20-%2003.png)
-
-#### **Use Case 2 - AI-empowered imaging solution for earlier detection of cancer-related cardiac dysfunction - Lead**
-![](/images/01_Leadership/02_Executive%20Committee/cadence%20-%2006.png)
-
-#### **Use Case 3 - Digital-empowered solutions for the prevention of cardiovascular disease in primary care  - Lead**
-![](/images/01_Leadership/02_Executive%20Committee/cadence%20-%2008.png)
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/01_Leadership/02_Executive%20Committee/cadence%20-%2001.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/01_Leadership/02_Executive%20Committee/cadence%20-%2002.png">
+</div>
+<h4><strong>Platform 1 - Data, Imaging &amp; Tissue Repository - Platform Leads</strong></h4>
+<p>Lead:</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/01_Leadership/02_Executive%20Committee/cadence%20-%2009.png">
+</div>
+<p>Co-Lead:</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/01_Leadership/02_Executive%20Committee/cadence%20-%2010.png">
+</div>
+<p>Co-Lead:</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/01_Leadership/02_Executive%20Committee/cadence%20-%2005.png">
+</div>
+<h4><strong>Platform 2 - National Cardiovascular Clinical Trials Network - Platform Leads</strong></h4>
+<p>Lead:</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/01_Leadership/02_Executive%20Committee/cadence%20-%2004.png">
+</div>
+<p>Co-Lead:</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/01_Leadership/02_Executive%20Committee/cadence%20-%2011.png">
+</div>
+<p>Co-Lead:</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/01_Leadership/02_Executive%20Committee/cadence%20-%2012.png">
+</div>
+<h4><strong>Platform 3 - Artificial Intelligence, Digital Health, and Human Potential - Platform Leads</strong></h4>
+<p>Joint-Lead:</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/01_Leadership/02_Executive%20Committee/cadence%20-%2013.png">
+</div>
+<p>Joint-Lead:</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/01_Leadership/02_Executive%20Committee/cadence%20-%2014.png">
+</div>
+<p>Co-Lead:</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/01_Leadership/02_Executive%20Committee/cadence%20-%2008.png">
+</div>
+<h4><strong>Platform 4 - Business Intelligence and Development - Platform Lead</strong></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/01_Leadership/02_Executive%20Committee/cadence%20-%2007.png">
+</div>
+<h4><strong>Use Case 1 - Clinical and cost-effectiveness of treatments for patients with&nbsp;heart failure - Lead</strong></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/01_Leadership/02_Executive%20Committee/cadence%20-%2003.png">
+</div>
+<h4><strong>Use Case 2 - AI-empowered imaging solution for earlier detection of&nbsp;cancer-related cardiac dysfunction - Lead</strong></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/01_Leadership/02_Executive%20Committee/cadence%20-%2006.png">
+</div>
+<h4><strong>Use Case 3 - Digital-empowered solutions for&nbsp;the prevention of cardiovascular disease&nbsp;in primary care - Lead</strong></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/01_Leadership/02_Executive%20Committee/cadence%20-%2008.png">
+</div>
+<p></p>
