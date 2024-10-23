@@ -31,9 +31,10 @@ in order to enhance the clinical and commercial impact of our research</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/BIDU/Farah_card.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Banners/page%20footer%201.png">
-</div>
-<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/BIDU/Janet_card.png">
 </div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Banners/page%20footer%201.png">
+</div>
+<p></p>
 <p></p>
