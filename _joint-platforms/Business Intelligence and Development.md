@@ -25,7 +25,7 @@ in order to enhance the clinical and commercial impact of our research</p>
 </li>
 </ul>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Banners/platform%204%20-%20platform%20lead.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Banners/platform 3 - platform leads.png">
 </div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/01_Leadership/02_Executive%20Committee/cadence%20-%2007.png">
