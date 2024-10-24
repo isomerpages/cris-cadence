@@ -111,6 +111,8 @@ the strongest drivers of cardiovascular health. Our goal is to inform predictive
 proactive, and preventative population health roadmaps to address risk
 factors with precise interventions and further promote Singapore’s transition
 from care to health,” said Dr Ann Aerts, Head of Novartis Foundation.</p>
+<p><a href="https://www.8world.com/singapore/smoking-and-physical-inactivity-increase-cardiovascular-among-singaporeans-2596901" rel="noopener noreferrer nofollow" target="_blank">吸烟和缺乏运动 是本地人患心血管疾病主要因素 - 8world</a>
+</p>
 <hr>
 <p><strong>About CADENCE</strong>
 </p>
