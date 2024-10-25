@@ -73,9 +73,9 @@ failure.</p>
 </ul>
 <p>This use case is led by:</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/01_Leadership/02_Executive Committee/Nicholas_Grave.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Banners/page%20footer%201.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Banners/page%20footer%201.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Platforms/Prof_Nicholas_Grave.png">
 </div>
 <p></p>
