@@ -5,4 +5,5 @@ layout: link
 description: ""
 image: ""
 external: https://www.cris.sg/news-and-events/media-releases/cadence-appt/
+variant: tiptap
 ---
