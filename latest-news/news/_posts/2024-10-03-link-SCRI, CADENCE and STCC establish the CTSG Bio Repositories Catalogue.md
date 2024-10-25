@@ -1,5 +1,5 @@
 ---
-title: CADENCE and SCRI establishes the CTSG Bio Repositories Catalogue
+title: SCRI, CADENCE and STCC establish the CTSG Bio Repositories Catalogue
 date: 2024-10-03
 layout: link
 description: ""
