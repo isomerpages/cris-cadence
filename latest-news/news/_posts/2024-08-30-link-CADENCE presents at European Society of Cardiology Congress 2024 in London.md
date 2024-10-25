@@ -1,5 +1,5 @@
 ---
-title: CADENCE presents at ESC 2024
+title: CADENCE presents at European Society of Cardiology Congress 2024 in London
 date: 2024-08-30
 layout: link
 description: ""

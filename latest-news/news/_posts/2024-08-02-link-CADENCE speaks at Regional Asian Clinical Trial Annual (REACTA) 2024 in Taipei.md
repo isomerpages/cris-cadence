@@ -1,6 +1,5 @@
 ---
-title: CADENCE invited to speak at Regional Asian Clinical Trial Annual (REACTA)
-  in Taipei
+title: CADENCE speaks at Regional Asian Clinical Trial Annual (REACTA) 2024 in Taipei
 date: 2024-08-02
 layout: link
 description: ""
