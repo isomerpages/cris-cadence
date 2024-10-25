@@ -8,7 +8,8 @@ description: Smoking and physical inactivity increase risk of heart disease
 image: ""
 variant: tiptap
 ---
-<h4><strong>Smoking and Physical Inactivity Increase Cardiovascular Disease Risks Among Singaporeans, Shown In a Research Study By CADENCE</strong></h4>
+<h3><strong>Smoking and Physical Inactivity Increase Cardiovascular Disease Risks Among Singaporeans, Shown In a Research Study By CADENCE</strong></h3>
+<p></p>
 <ul data-tight="true" class="tight">
 <li>
 <p>A research study, Al4HealthyCities-Singapore (Al4HealthyCities-SG), led
@@ -34,11 +35,15 @@ community-wide initiatives that promote healthier lifestyle habits, increased
 physical activity, improved dietary choices and smoking cessation programmes.</p>
 </li>
 </ul>
-<p>Findings from a research study, Al4HealthyCities-SG, led by CADENCE in
-partnership with the Novartis Foundation’s Al4HealthyCities initiative,
-found that smoking and physical inactivity are major contributors to cardiovascular
-disease risks among Singaporeans. These findings shed light on a pressing
-health challenge and provide crucial insights to inform targeted interventions.</p>
+<p></p>
+<hr>
+<p>
+<br><strong>SINGAPORE, 17 Oct 2024 </strong>–&nbsp; Findings from a research
+study, Al4HealthyCities-SG, led by CADENCE in partnership with the Novartis
+Foundation’s Al4HealthyCities initiative, found that smoking and physical
+inactivity are major contributors to cardiovascular disease risks among
+Singaporeans. These findings shed light on a pressing health challenge
+and provide crucial insights to inform targeted interventions.</p>
 <p><strong>Heart Disease is a leading cause of death in Singapore</strong>
 </p>
 <p>Heart disease remains a leading cause of death in Singapore. On average,
@@ -114,7 +119,7 @@ from care to health,” said Dr Ann Aerts, Head of Novartis Foundation.</p>
 <p><a href="https://www.8world.com/singapore/smoking-and-physical-inactivity-increase-cardiovascular-among-singaporeans-2596901" rel="noopener noreferrer nofollow" target="_blank">吸烟和缺乏运动 是本地人患心血管疾病主要因素 - 8world</a>
 </p>
 <hr>
-<p><strong>About CADENCE</strong>
+<p><strong>About Cardiovascular Disease National Collaborative Enterprise (CADENCE) </strong>
 </p>
 <p>Established in February 2023, the Cardiovascular Disease National Collaborative
 Enterprise (CADENCE) is a national clinical translational programme aimed
