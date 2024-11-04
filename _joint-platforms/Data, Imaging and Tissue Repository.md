@@ -38,7 +38,7 @@ research and innovative discoveries into the clinical setting for patients.</p>
 </div>
 <p>Lead:</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/01_Leadership/02_Executive%20Committee/cadence%20-%2009.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/01_Leadership/02_Executive Committee/Prof_KK.png">
 </div>
 <p>Co-Lead:</p>
 <div class="isomer-image-wrapper">
@@ -74,6 +74,14 @@ failure.</p>
 <p>This use case is led by:</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Platforms/Prof_Nicholas_Grave.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Platforms/AP_Sanjeewa.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Platforms/Dr_Sameera.png">
 </div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Banners/page%20footer%201.png">

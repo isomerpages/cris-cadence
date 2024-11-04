@@ -51,7 +51,7 @@ to the prevention, diagnosis, and treatment of cardiovascular diseases.</p>
 </div>
 <p>Co-Lead:</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/01_Leadership/02_Executive%20Committee/cadence%20-%2012.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Platforms/Dr_Tong.png">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
