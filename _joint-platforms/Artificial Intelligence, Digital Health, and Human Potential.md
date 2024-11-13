@@ -65,6 +65,10 @@ hyperlipidaemia.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/01_Leadership/02_Executive%20Committee/cadence%20-%2008.png">
 </div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Platforms/Chua_Ying_Xian.png">
+</div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Banners/page%20footer%203.png">
 </div>
