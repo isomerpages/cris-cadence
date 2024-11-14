@@ -26,6 +26,10 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/01_Leadership/02_Executive%20Committee/cadence%20-%2005.png">
 </div>
+<p>Co-Lead:</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/01_Leadership/02_Executive Committee/Ho_Hee_Hwa.png">
+</div>
 <h4><strong>Platform 2 - National Cardiovascular Clinical Trials Network - Platform Leads</strong></h4>
 <p>Lead:</p>
 <div class="isomer-image-wrapper">
