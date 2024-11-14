@@ -57,6 +57,10 @@ to the prevention, diagnosis, and treatment of cardiovascular diseases.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Platforms/Prof_Lim_Chiw_Yeh.png">
 </div>
+<p>Institutional Lead:</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Platforms/Chai_Siang_Chew.png">
+</div>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Banners/platform%202%20-%20use%20case.png">
