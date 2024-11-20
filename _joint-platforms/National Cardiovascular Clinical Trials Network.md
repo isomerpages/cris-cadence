@@ -96,9 +96,13 @@ lymphoma patients receiving cardiotoxic chemotherapy.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/01_Leadership/02_Executive%20Committee/cadence%20-%2006.png">
 </div>
-<p></p>
+<p>Co-lead</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Platforms/Jasper_Tromp.png">
+</div>
+<p>Co-lead</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Platforms/Ng_Choon_Ta.png">
 </div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Banners/page%20footer%202.png">
