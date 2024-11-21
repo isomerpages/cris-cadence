@@ -53,6 +53,18 @@ to the prevention, diagnosis, and treatment of cardiovascular diseases.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Platforms/Dr_Tong.png">
 </div>
+<p>Institutional Lead:</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Platforms/Prof_Lim_Chiw_Yeh.png">
+</div>
+<p>Institutional Lead:</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Platforms/Chai_Siang_Chew.png">
+</div>
+<p>Institutional Lead:</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Platforms/Sim_Hui_Wen.png">
+</div>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Banners/platform%202%20-%20use%20case.png">
@@ -83,6 +95,14 @@ lymphoma patients receiving cardiotoxic chemotherapy.</p>
 <p>This use case is led by:</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/01_Leadership/02_Executive%20Committee/cadence%20-%2006.png">
+</div>
+<p>Co-lead</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Platforms/Jasper_Tromp.png">
+</div>
+<p>Co-lead</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Platforms/Ng_Choon_Ta.png">
 </div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Banners/page%20footer%202.png">
