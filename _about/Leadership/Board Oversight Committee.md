@@ -23,9 +23,8 @@ variant: tiptap
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/01_Leadership/01_BOC/Lim_Tock_Han_James_Yip.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/01_Leadership/01_BOC/Lim_Tock_Han_James_Yip_CADENCE.jpg">
 </div>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Banners/page%20footer%201.png">
 </div>
