@@ -33,6 +33,13 @@ process to ease access for CADENCE partners, researchers and industrial
 collaborators.</p>
 <p>This national resource would greatly facilitate the translation of novel
 research and innovative discoveries into the clinical setting for patients.</p>
+<p>The platform, in collaboration with sister unit SCRI, has also facilitated
+in the setup of the <a href="https://ddec1-0-en-ctp.trendmicro.com/wis/clicktime/v1/query?url=https%3a%2f%2fclinicaltrials.sg&amp;umid=93359da1-01ee-4905-a84e-8a6f2b0e4bc8&amp;rct=1740699229&amp;auth=32813f2e647ebb91b39d0b35ac97db1efa82dd64-dfdbee75b0fb42dbc0ab0be7a02bae786a2ef94e" rel="noopener noreferrer" target="_blank"><u>Singapore's Clinical Trials Portal (CTSG.</u></a> is
+crafted to cater to patients, caregivers, clinical investigators and companies
+by making clinical trial information more accessible and comprehensible.
+By demystifying the clinical trial landscape, CTSG aims to encourage greater
+interest in clinical trials, fostering innovation and improving health
+outcomes.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Banners/platform%201%20-%20platform%20leads.png">
 </div>
