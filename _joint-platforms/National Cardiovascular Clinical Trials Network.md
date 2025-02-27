@@ -6,11 +6,12 @@ image: /images/Banners/platform 2.png
 variant: tiptap
 ---
 <p>CADENCE's <strong>National Cardiovascular Clinical Trials Network</strong> brings
-together existing cardiovascular (CV) clinical trial units at&nbsp;the
-National University Heart Centre Singapore (NUHCS),&nbsp;National Heart
-Centre Singapore (NHCS)&nbsp;and Tan Tock Seng Hospital (TTSH) to function
-as one to support mechanistic early-phase multi-site clinical trials across
-Singapore.</p>
+together existing cardiovascular (CV) clinical trial units across Singapore
+e.g., National University Heart Centre Singapore (NUHCS),&nbsp;National
+Heart Centre Singapore (NHCS), Tan Tock Seng Hospital (TTSH), Changi General
+Hospital (CGH), Sengkang General Hospital (SKH), Khoo Teck Puat Hospital
+(KTPH) and Ng Teng Fong General Hospital (NTFGH) to function as one to
+support mechanistic early-phase multi-site clinical trials across Singapore.</p>
 <p>This platform will partner with other coordinating bodies being developed
 by&nbsp;the <a href="https://scri.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Singapore Clinical Research Institute (SCRI)</a> across&nbsp;all
 the clinical domains.</p>
