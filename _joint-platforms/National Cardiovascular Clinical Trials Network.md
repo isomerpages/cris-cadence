@@ -6,14 +6,22 @@ image: /images/Banners/platform 2.png
 variant: tiptap
 ---
 <p>CADENCE's <strong>National Cardiovascular Clinical Trials Network</strong> brings
-together existing cardiovascular (CV) clinical trial units at&nbsp;the
-National University Heart Centre Singapore (NUHCS),&nbsp;National Heart
-Centre Singapore (NHCS)&nbsp;and Tan Tock Seng Hospital (TTSH) to function
-as one to support mechanistic early-phase multi-site clinical trials across
-Singapore.</p>
+together existing cardiovascular (CV) clinical trial units across Singapore
+e.g., National University Heart Centre Singapore (NUHCS),&nbsp;National
+Heart Centre Singapore (NHCS), Tan Tock Seng Hospital (TTSH), Changi General
+Hospital (CGH), Sengkang General Hospital (SKH), Khoo Teck Puat Hospital
+(KTPH) and Ng Teng Fong General Hospital (NTFGH) to function as one to
+support mechanistic early-phase multi-site clinical trials across Singapore.</p>
 <p>This platform will partner with other coordinating bodies being developed
 by&nbsp;the <a href="https://scri.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Singapore Clinical Research Institute (SCRI)</a> across&nbsp;all
 the clinical domains.</p>
+<p>The platform, in collaboration with sister unit SCRI, has also facilitated
+in the setup of the <a href="https://ddec1-0-en-ctp.trendmicro.com/wis/clicktime/v1/query?url=https%3a%2f%2fclinicaltrials.sg&amp;umid=93359da1-01ee-4905-a84e-8a6f2b0e4bc8&amp;rct=1740699229&amp;auth=32813f2e647ebb91b39d0b35ac97db1efa82dd64-dfdbee75b0fb42dbc0ab0be7a02bae786a2ef94e" rel="noopener noreferrer" target="_blank"><u>Singapore's Clinical Trials Portal (CTSG.</u></a> is
+crafted to cater to patients, caregivers, clinical investigators and companies
+by making clinical trial information more accessible and comprehensible.
+By demystifying the clinical trial landscape, CTSG aims to encourage greater
+interest in clinical trials, fostering innovation and improving health
+outcomes.</p>
 <p>In addition, the National CV Biostatistics and Bioinformatics Unit&nbsp;established
 will partner with other business units within the Consortium for Clinical
 Research and Innovation, Singapore (CRIS) to scale-up biostatistics and
