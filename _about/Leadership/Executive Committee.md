@@ -33,7 +33,7 @@ variant: tiptap
 <h4><strong>Platform 2 - National Cardiovascular Clinical Trials Network - Platform Leads</strong></h4>
 <p>Lead:</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Platforms/Shir_Lynn.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Platforms/Ronald.png">
 </div>
 <p>Co-Lead:</p>
 <div class="isomer-image-wrapper">
